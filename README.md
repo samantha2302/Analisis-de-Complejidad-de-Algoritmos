@@ -1,4 +1,4 @@
-# Proyecto de Analisis I
+# Analisis de Complejidad de Algoritmos
 
 Instituto Tecnológico de Costa Rica.<br/>
 I Proyecto de Analisis de Algoritmos, primer semestre, 2022.<br/>
